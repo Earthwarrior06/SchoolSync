@@ -1,2 +1,2 @@
 # SchoolSync
-12th CBSE Project
+SIH Submission 2025
